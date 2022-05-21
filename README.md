@@ -2,6 +2,8 @@ Hi! I'm kleon.
 
 Software Engineer in Tokyo, Japan.
 
+I love C#, python, C++, Rust.
+
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
