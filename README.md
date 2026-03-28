@@ -5,5 +5,5 @@
 鉄道、風景、動物、自然が好きで、よく撮影しています。<br>
 
 Hi! I'm kleon.<br>
-Software Engineer in Tokyo, Japan.<br>
+Software Engineer in Yokohama, Japan.<br>
 I love C#, python, C++, Rust.<br>
