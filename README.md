@@ -6,4 +6,4 @@
 
 Hi! I'm kleon.<br>
 Software Engineer in Yokohama, Japan.<br>
-I love C#, python, C++, Rust.<br>
+I love C#, python, C++, Rust, Swift.<br>
